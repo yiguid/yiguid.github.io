@@ -1,11 +1,12 @@
 # Site settings
-title: Yiguid Photo Site
+title: Yiguid Site
 email: yiguid@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Longing for love, search for knowledge, pity for suffering"
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://yiguid.com"
+twitter_username: yiguidcom
+github_username:  yiguid
+theme: jekyll-theme-hacker
 
 # Build settings
 markdown: kramdown
